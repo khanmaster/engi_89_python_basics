@@ -17,15 +17,15 @@ Salary = 10.5 # float value
 age = 19 # int value
 my_age = "22"
 
-# print(First_Name)
-# print(Last_Name)
-# print(Salary)
-#print(age)
-#print(my_age)
+print(First_Name)
+print(Last_Name)
+print(Salary)
+print(age)
+print(my_age)
 # type(age) helps us fine the type of variable
 
-# print(type(age)) # will print the type of variable age
-# print(type(my_age)) # will print the type of variable age
+print(type(age)) # will print the type of variable age
+print(type(my_age)) # will print the type of variable age
 
 # input() in python to interact with user - to ask user to enter required data
 
